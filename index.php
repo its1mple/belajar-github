@@ -10,6 +10,6 @@
     <h1>Hellow wordwrap</h1>
     <p>Hahah</p>
     <p>Kotlini</p>
-    <p>Flutterr</p>
+    <p>Fluterr</p>
 </body>
 </html>
